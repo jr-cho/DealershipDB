@@ -11,17 +11,12 @@
             "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "WORKFLOW.canvas",
-                "viewState": {
-                  "x": 833.4202132300452,
-                  "y": 419.19645779882086,
-                  "zoom": -1.140107487936814
-                }
+                "file": "03 - ERD/ERD.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "WORKFLOW"
+              "icon": "lucide-image",
+              "title": "ERD"
             }
           }
         ]
@@ -97,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "03 - ERD/ERD.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WORKFLOW"
+              "title": "Backlinks for ERD"
             }
           },
           {
@@ -116,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "03 - ERD/ERD.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WORKFLOW"
+              "title": "Outgoing links from ERD"
             }
           },
           {
@@ -145,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "03 - ERD/ERD.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WORKFLOW"
+              "title": "Outline of ERD"
             }
           }
         ]
@@ -173,13 +168,13 @@
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
+    "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
+    "01 - CONSTRAINTS/Constraints.md",
     "00 - BUSINESS PROBLEM/Business Problem.md",
     "WORKFLOW.canvas",
-    "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
     "03 - ERD/ERD.md",
     "03 - ERD/ERD.png",
     "03 - ERD",
-    "01 - CONSTRAINTS/Constraints.md",
     "02 - RELATIONSHIP TYPES",
     "01 - CONSTRAINTS",
     "00 - BUSINESS PROBLEM",
