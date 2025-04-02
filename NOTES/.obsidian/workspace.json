@@ -8,17 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c044b6e34adeb9ed",
+            "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MAIN.md",
-                "mode": "source",
-                "source": false
+                "file": "WORKFLOW.canvas",
+                "viewState": {
+                  "x": 833.4202132300452,
+                  "y": 419.19645779882086,
+                  "zoom": -1.140107487936814
+                }
               },
-              "icon": "lucide-file",
-              "title": "MAIN"
+              "icon": "lucide-layout-dashboard",
+              "title": "WORKFLOW"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAIN.md",
+                "file": "WORKFLOW.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MAIN"
+              "title": "Backlinks for WORKFLOW"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAIN.md",
+                "file": "WORKFLOW.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from MAIN"
+              "title": "Outgoing links from WORKFLOW"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAIN.md",
+                "file": "WORKFLOW.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MAIN"
+              "title": "Outline of WORKFLOW"
             }
           }
         ]
@@ -168,11 +171,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c044b6e34adeb9ed",
+  "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
-    "Untitled",
+    "00 - BUSINESS PROBLEM/Business Problem.md",
+    "WORKFLOW.canvas",
+    "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
+    "03 - ERD/ERD.md",
+    "03 - ERD/ERD.png",
+    "03 - ERD",
+    "01 - CONSTRAINTS/Constraints.md",
+    "02 - RELATIONSHIP TYPES",
     "01 - CONSTRAINTS",
-    "00 - MAIN",
-    "MAIN.md"
+    "00 - BUSINESS PROBLEM",
+    "01 - CONSTRAINTS",
+    "00 - MAIN"
   ]
 }
