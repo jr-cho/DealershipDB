@@ -23,16 +23,6 @@
 
 ---
 
-## 📝 Table of Contents
-- [About the Project](#📖-about-the-project)
-- [Tech Stack](#🛠%ef%b8%8f-tech-stack)
-- [Getting Started](#🚀-getting-started)
-- [Usage](#💻-usage)
-- [Contributing](#🤝-contributing)
-- [License](#📄-license)
-
----
-
 ## 📖 About the Project
 This project is a relational database system designed to solve the operational inefficiencies of a car dealership by managing vehicle inventory, customer data, sales transactions, employee roles, and optional financing and insurance processing. It addresses issues such as data redundancy, lack of structure, and limited reporting capabilities by implementing a normalized schema (to 3NF) with enforced business rules and real-world relationship types. Key features include support for multi-vehicle sales via a bridge table, one-to-one optional relationships for financing and insurance, and historical service tracking per vehicle. The system enables complex SQL queries for generating invoices, filtering inventory, analyzing sales patterns, and more. Developed using a full database lifecycle approach—from problem analysis to implementation and testing—this database offers a scalable, efficient, and accurate solution for managing dealership operations and enhancing data-driven decision-making.
 
