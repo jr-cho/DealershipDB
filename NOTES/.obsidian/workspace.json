@@ -11,12 +11,14 @@
             "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "03 - ERD/ERD.png"
+                "file": "01 - CONSTRAINTS/Constraints.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ERD"
+              "icon": "lucide-file",
+              "title": "Constraints"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - ERD/ERD.png",
+                "file": "01 - CONSTRAINTS/Constraints.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ERD"
+              "title": "Backlinks for Constraints"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - ERD/ERD.png",
+                "file": "01 - CONSTRAINTS/Constraints.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ERD"
+              "title": "Outgoing links from Constraints"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - ERD/ERD.png",
+                "file": "01 - CONSTRAINTS/Constraints.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ERD"
+              "title": "Outline of Constraints"
             }
           }
         ]
@@ -168,13 +170,13 @@
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
-    "03 - ERD/DealershipDB Diagram (1).png",
-    "03 - ERD/ERD.png",
-    "WORKFLOW.canvas",
-    "04 -",
     "00 - BUSINESS PROBLEM/Business Problem.md",
     "01 - CONSTRAINTS/Constraints.md",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
+    "03 - ERD/ERD.png",
+    "03 - ERD/DealershipDB Diagram (1).png",
+    "WORKFLOW.canvas",
+    "04 -",
     "03 - ERD/ERD.md",
     "03 - ERD",
     "02 - RELATIONSHIP TYPES",

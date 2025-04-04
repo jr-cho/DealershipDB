@@ -5,6 +5,6 @@
 4. Each sale can have optional finance and insurance records.
 5. Each vehicle can have multiple service records.
 6. Only employees with a sales role can be associated with a sale.
-7. . TotalPrice in a sale must match or exceed the vehicle price.
+7. TotalPrice in a sale must match or exceed the vehicle price.
 
  
