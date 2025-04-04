@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"cb5eb7fa69fef66b","x":-500,"y":-400,"width":400,"height":400,"type":"file","file":"00 - BUSINESS PROBLEM/Business Problem.md"},
-		{"id":"622d3d48fe60e41a","x":620,"y":140,"width":757,"height":380,"color":"5","type":"file","file":"03 - ERD/ERD.png"},
-		{"id":"b83990c0017a29e5","x":120,"y":-400,"width":400,"height":430,"type":"file","file":"01 - CONSTRAINTS/Constraints.md"},
-		{"id":"e829bc404656bfe1","x":-100,"y":240,"width":400,"height":400,"type":"file","file":"02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md"}
+		{"id":"cb5eb7fa69fef66b","type":"file","file":"00 - BUSINESS PROBLEM/Business Problem.md","x":-500,"y":-400,"width":400,"height":400},
+		{"id":"b83990c0017a29e5","type":"file","file":"01 - CONSTRAINTS/Constraints.md","x":120,"y":-400,"width":400,"height":430},
+		{"id":"e829bc404656bfe1","type":"file","file":"02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md","x":-100,"y":240,"width":400,"height":400},
+		{"id":"622d3d48fe60e41a","type":"file","file":"03 - ERD/ERD.png","x":520,"y":120,"width":757,"height":380,"color":"5"}
 	],
 	"edges":[
 		{"id":"873f0d3d2ba968d0","fromNode":"cb5eb7fa69fef66b","fromSide":"right","toNode":"b83990c0017a29e5","toSide":"left"},
