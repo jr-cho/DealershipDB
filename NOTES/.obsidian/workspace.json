@@ -11,14 +11,17 @@
             "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - CONSTRAINTS/Constraints.md",
-                "mode": "source",
-                "source": false
+                "file": "WORKFLOW.canvas",
+                "viewState": {
+                  "x": 452.6906369463426,
+                  "y": -38.208364209854274,
+                  "zoom": 0.2580918496906347
+                }
               },
-              "icon": "lucide-file",
-              "title": "Constraints"
+              "icon": "lucide-layout-dashboard",
+              "title": "WORKFLOW"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - CONSTRAINTS/Constraints.md",
+                "file": "WORKFLOW.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Constraints"
+              "title": "Backlinks for WORKFLOW"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - CONSTRAINTS/Constraints.md",
+                "file": "WORKFLOW.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Constraints"
+              "title": "Outgoing links from WORKFLOW"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - CONSTRAINTS/Constraints.md",
+                "file": "WORKFLOW.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Constraints"
+              "title": "Outline of WORKFLOW"
             }
           }
         ]
@@ -170,10 +173,10 @@
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
+    "03 - ERD/ERD.png",
     "00 - BUSINESS PROBLEM/Business Problem.md",
     "01 - CONSTRAINTS/Constraints.md",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
-    "03 - ERD/ERD.png",
     "03 - ERD/DealershipDB Diagram (1).png",
     "WORKFLOW.canvas",
     "04 -",
