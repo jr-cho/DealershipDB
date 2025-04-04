@@ -1,5 +1,5 @@
 
-Car dealerships need an efficient way to manage vehicle inventory, customer information, sales transactions, employee tracking, and financing/insurance processing.
+Car dealerships tend to be very disorganized without proper experience and management. So, Car dealers need an efficient way to manage vehicle inventory, customer information, sales transactions, employee tracking, and financing/insurance processing. 
 
 ## SOLUTION:
 

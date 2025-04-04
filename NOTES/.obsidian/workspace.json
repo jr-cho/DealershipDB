@@ -15,9 +15,9 @@
               "state": {
                 "file": "WORKFLOW.canvas",
                 "viewState": {
-                  "x": 452.6906369463426,
-                  "y": -38.208364209854274,
-                  "zoom": 0.2580918496906347
+                  "x": 356.5,
+                  "y": 120,
+                  "zoom": -0.7428218477537045
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -168,17 +168,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
     "03 - ERD/ERD.png",
-    "00 - BUSINESS PROBLEM/Business Problem.md",
-    "01 - CONSTRAINTS/Constraints.md",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
-    "03 - ERD/DealershipDB Diagram (1).png",
+    "01 - CONSTRAINTS/Constraints.md",
+    "00 - BUSINESS PROBLEM/Business Problem.md",
     "WORKFLOW.canvas",
+    "03 - ERD/DealershipDB Diagram (1).png",
     "04 -",
     "03 - ERD/ERD.md",
     "03 - ERD",
