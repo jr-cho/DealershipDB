@@ -11,17 +11,14 @@
             "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "WORKFLOW.canvas",
-                "viewState": {
-                  "x": 356.5,
-                  "y": 120,
-                  "zoom": -0.7428218477537045
-                }
+                "file": "00 - BUSINESS PROBLEM/Business Problem.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "WORKFLOW"
+              "icon": "lucide-file",
+              "title": "Business Problem"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "00 - BUSINESS PROBLEM/Business Problem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for WORKFLOW"
+              "title": "Backlinks for Business Problem"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "00 - BUSINESS PROBLEM/Business Problem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from WORKFLOW"
+              "title": "Outgoing links from Business Problem"
             }
           },
           {
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WORKFLOW.canvas",
+                "file": "00 - BUSINESS PROBLEM/Business Problem.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WORKFLOW"
+              "title": "Outline of Business Problem"
             }
           }
         ]
@@ -174,11 +171,11 @@
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
-    "03 - ERD/ERD.png",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
     "01 - CONSTRAINTS/Constraints.md",
-    "00 - BUSINESS PROBLEM/Business Problem.md",
+    "03 - ERD/ERD.png",
     "WORKFLOW.canvas",
+    "00 - BUSINESS PROBLEM/Business Problem.md",
     "03 - ERD/DealershipDB Diagram (1).png",
     "04 -",
     "03 - ERD/ERD.md",
