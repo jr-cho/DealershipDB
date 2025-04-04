@@ -11,14 +11,12 @@
             "id": "655be8a0c5fe446a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "00 - BUSINESS PROBLEM/Business Problem.md",
-                "mode": "source",
-                "source": false
+                "file": "03 - ERD/ERD.png"
               },
-              "icon": "lucide-file",
-              "title": "Business Problem"
+              "icon": "lucide-image",
+              "title": "ERD"
             }
           }
         ]
@@ -171,11 +169,11 @@
   },
   "active": "655be8a0c5fe446a",
   "lastOpenFiles": [
+    "00 - BUSINESS PROBLEM/Business Problem.md",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
     "01 - CONSTRAINTS/Constraints.md",
     "03 - ERD/ERD.png",
     "WORKFLOW.canvas",
-    "00 - BUSINESS PROBLEM/Business Problem.md",
     "03 - ERD/DealershipDB Diagram (1).png",
     "04 -",
     "03 - ERD/ERD.md",
