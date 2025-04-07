@@ -1,0 +1,12 @@
+INSERT INTO CUSTOMER VALUES (1, "Khalee", "Johnson",1-863-210-9305, "khaleethegreat@gmail.com");
+INSERT INTO CUSTOMER VALUES (2, "Jana", "Smith", 1-675-654-8767, "JanaSmith@gmail.com");
+INSERT INTO CUSTOMER VALUES (3, "Joseph", "Willams", 1-234-345-7543, "JoeMoney@gmail.com");
+INSERT INTO CUSTOMER VALUES (4,"Chandler", "Mullin", 1-863-678-3532, "Mullinboy@gmail.com");
+INSERT INTO CUSTOMER VALUES (5, "Colby", "Mullin", 1-863-789-2345, "ColbyMullin@gmail.com");
+INSERT INTO CUSTOMER VALUES (6, "Aidan", "Deal", 1-656-565-0932, "AidanDeal@gmail.com");
+INSERT INTO CUSTOMER VALUES (7, "Brandon", "Rahming", 1-345-475-8653, "BrandonRahming@outlook.com");
+INSERT INTO CUSTOMER VALUES (8, "Daveon", "Moxey", 1-786-923-4534, "DaveonMox@outlook.com");
+INSERT INTO CUSTOMER VALUES(9, "Devantae", "Smithfield", 1-243-344-6654, "DevantaeSmith@yahoo.com");
+INSERT INTO CUSTOMER VALUES(10, "Lebron", "John", 1-764-342-4043, "LebronJohnson@yahoo.com");
+INSERT INTO CUSTOMER VALUES(11,"Joshua", "Robinson", 1-242-543-2342, "JoshRobinson@outlook.com");
+Insert INTO CUSTOMER VALUES(12, "Sahil", "Gelin", 1-553-543-0182, "SahilGel@outlook.com");
