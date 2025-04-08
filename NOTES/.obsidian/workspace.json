@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "87b7eecd4b1afa68",
+        "id": "394d125e79f2ab7a",
         "type": "tabs",
         "children": [
           {
-            "id": "655be8a0c5fe446a",
+            "id": "e5ceb5938baa0764",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "03 - ERD/ERD.png"
-              },
-              "icon": "lucide-image",
-              "title": "ERD"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -167,17 +165,18 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "655be8a0c5fe446a",
+  "active": "e5ceb5938baa0764",
   "lastOpenFiles": [
+    "WORKFLOW.canvas",
+    "03 - ERD/ERD.png",
+    "Babe when I saw your phone I was like huh your mom looks a lot like your dad....md",
+    "2025-04-06.md",
     "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
     "Untitled 2.md",
     "03 - ERD/Dealership DB.jpg",
-    "03 - ERD/ERD.png",
-    "Untitled.md",
     "Untitled 1.md",
     "01 - CONSTRAINTS/Constraints.md",
     "00 - BUSINESS PROBLEM/Business Problem.md",
-    "WORKFLOW.canvas",
     "04 - TASKS/TASKS.md",
     "2025-04-04.md",
     "04 - TASKS",

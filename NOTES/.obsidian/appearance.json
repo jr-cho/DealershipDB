@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "Colored Sidebar Items"
   ],
-  "cssTheme": "theme"
+  "cssTheme": "theme",
+  "translucency": true
 }
