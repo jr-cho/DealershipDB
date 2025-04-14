@@ -1,0 +1,7 @@
+-- Page 7: Show all products sold within a date range
+SELECT 
+    V.VIN, V.MAKE, V.MODEL, V.YEAR, V.PRICE, S.SALE_DATE
+FROM VEHICLE V
+JOIN SALE S ON V.VIN = S.VEHICLE_ID
+WHERE S.SALE_DATE BETWEEN '2025-01-01' AND '2025-02-01';
+
