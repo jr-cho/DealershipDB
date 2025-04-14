@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTrafficCone",
       "LiWorkflow",
       "LiActivity",
       "LiTable",
-      "LiArrowRightLeft",
-      "LiConstruction"
+      "LiArrowRightLeft"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "01 - CONSTRAINTS": "LiConstruction",
   "02 - RELATIONSHIP TYPES": "LiWorkflow",
   "03 - ERD": "LiTable",
-  "04 - TASKS": "LiActivity"
+  "04 - TASKS": "LiActivity",
+  "05 - BUSINESS RULES": "LiTrafficCone"
 }
