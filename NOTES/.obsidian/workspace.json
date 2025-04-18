@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - BUSINESS RULES/Business Rules.md",
+                "file": "04 - TASKS/TASKS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Rules"
+              "title": "TASKS"
             }
           }
         ]
@@ -160,31 +160,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "a3a657c4eb26cbef",
+  "active": "e5ceb5938baa0764",
   "lastOpenFiles": [
-    "Untitled.md",
     "05 - BUSINESS RULES/Business Rules.md",
-    "01 - CONSTRAINTS/Constraints.md",
     "05 - BUSINESS RULES",
-    "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
     "WORKFLOW.canvas",
     "03 - ERD/ERD.png",
+    "02 - RELATIONSHIP TYPES/RELATIONSHIP TYPES.md",
+    "01 - CONSTRAINTS/Constraints.md",
+    "00 - BUSINESS PROBLEM/Business Problem.md",
+    "04 - TASKS/TASKS.md",
     "Babe when I saw your phone I was like huh your mom looks a lot like your dad....md",
     "2025-04-06.md",
     "Untitled 2.md",
     "03 - ERD/Dealership DB.jpg",
     "Untitled 1.md",
-    "00 - BUSINESS PROBLEM/Business Problem.md",
-    "04 - TASKS/TASKS.md",
     "2025-04-04.md",
     "04 - TASKS",
     "03 - ERD/DealershipDB Diagram (1).png",
