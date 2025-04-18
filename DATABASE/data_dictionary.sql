@@ -13,7 +13,7 @@ SELECT
 FROM 
     information_schema.COLUMNS
 WHERE 
-    table_schema = '' 
+    table_schema = 'jgottus9500_dealershipDB' 
 ORDER BY 
     table_name, ordinal_position;
 
